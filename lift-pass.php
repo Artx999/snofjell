@@ -1,9 +1,11 @@
 <?php
 $root = "";
 require $root . "structure/head.php";
-echo "<script>giveTitle('Heiskort')</script>"
+echo "<script>giveTitle('Heiskort')</script>";
+require $root . "structure/nav.php";
 ?>
 <body>
+<h1>Bestill heiskort for en person:</h1>
 <label for="age">Hvor gammel er du?</label><br/>
 <input name="age" id="age" type="number" max="100" min="0"><p id="ageInfo"></p><br/>
 <label for="days">Hvor mange dager skal du stå på ski?</label><br/>
@@ -11,4 +13,3 @@ echo "<script>giveTitle('Heiskort')</script>"
 <p id="priceOut"></p>
 <p id="discount"></p>
 </body>
-</html>
