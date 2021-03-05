@@ -4,9 +4,12 @@
 		"Standard": "Høy",
 		"Badstue": true,
 		"Ukepris": "12 000",
-		"Bilder": {
-
-		},
+		"Bilder": [
+			"granstua.jpg",
+			"granstua01.jpg",
+			"granstua02.jpg",
+			"granstua03.jpg"
+		],
 		"Utleid": {
 			"Jul": true,
 			"Vinterferie": true,
@@ -18,7 +21,12 @@
 		"Standard": "Middels",
 		"Badstue": false,
 		"Ukepris": "15 000",
-		"Bilde": "granbo.jpg",
+		"Bilder": [
+			"granbo.jpg",
+			"granbo01.jpg",
+			"granbo02.jpg",
+			"granbo03.jpg"
+		],
 		"Utleid": {
 			"Jul": false,
 			"Vinterferie": false,
@@ -30,7 +38,9 @@
 		"Standard": "Lav",
 		"Badstue": false,
 		"Ukepris": "16 000",
-		"Bilde": "grantopppen.jpg",
+		"Bilder": [
+			"grantoppen.jpg"
+		],
 		"Utleid": {
 			"Jul": true,
 			"Vinterferie": false,
@@ -42,7 +52,9 @@
 		"Standard": "Høy",
 		"Badstue": true,
 		"Ukepris": "30 000",
-		"Bilde": "granhaug.jpg",
+		"Bilder": [
+			"granhaug.jpg"
+		],
 		"Utleid": {
 			"Jul": true,
 			"Vinterferie": false,
