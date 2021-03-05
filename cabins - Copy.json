@@ -1,0 +1,50 @@
+{
+	"Granstua": {
+		"Sengeplasser": 4,
+		"Standard": "Høy",
+		"Badstue": true,
+		"Ukepris": "12 000",
+		"Bilde": "granstua.jpg",
+		"Utleid": {
+			"Jul": true,
+			"Vinterferie": true,
+			"Påske": false
+		}
+	},
+	"Granbo": {
+		"Sengeplasser": 6,
+		"Standard": "Middels",
+		"Badstue": false,
+		"Ukepris": "15 000",
+		"Bilde": "granbo.jpg",
+		"Utleid": {
+			"Jul": false,
+			"Vinterferie": false,
+			"Påske": true
+		}
+	},
+	"Grantoppen": {
+		"Sengeplasser": 8,
+		"Standard": "Lav",
+		"Badstue": false,
+		"Ukepris": "16 000",
+		"Bilde": "grantopppen.jpg",
+		"Utleid": {
+			"Jul": true,
+			"Vinterferie": false,
+			"Påske": true
+		}
+	},
+	"Granhaug": {
+		"Sengeplasser": 10,
+		"Standard": "Høy",
+		"Badstue": true,
+		"Ukepris": "30 000",
+		"Bilde": "granhaug.jpg",
+		"Utleid": {
+			"Jul": true,
+			"Vinterferie": false,
+			"Påske": true
+		}
+	}
+}
